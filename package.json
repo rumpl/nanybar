@@ -1,13 +1,22 @@
 {
   "name": "nanybar",
-  "version": "1.0.2",
   "description": "Control AnyBar from your node scripts",
+  "version": "1.0.2",
   "author": "Djordje Lukic",
-  "main": "lib/index.js",
   "bin": {
     "nanybar": "bin/nanybar"
   },
+  "bugs": {
+    "url": "https://github.com/rumpl/nanybar/issues",
+    "email": "lukic.djordje@gmail.com"
+  },
+  "homepage": "https://github.com/rumpl/nanybar",
+  "keywords": [
+    "AnyBar",
+    "MacOS"
+  ],
   "license": "MIT",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/rumpl/nanybar.git"
