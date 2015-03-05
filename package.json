@@ -1,11 +1,11 @@
 {
   "name": "nanybar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Control AnyBar from your node scripts",
   "author": "Djordje Lukic",
   "main": "lib/index.js",
   "bin": {
-    "anybar": "bin/anybar"
+    "anybar": "bin/nanybar"
   },
   "license": "MIT",
   "repository": {
