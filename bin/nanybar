@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var nanybar = require('../lib');
+
+nanybar(process.argv[2], process.argv[3]);

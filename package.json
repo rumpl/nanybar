@@ -1,0 +1,15 @@
+{
+  "name": "nanybar",
+  "version": "1.0.0",
+  "description": "Control AnyBar from your node scripts",
+  "author": "Djordje Lukic",
+  "main": "lib/index.js",
+  "bin": {
+    "anybar": "bin/anybar"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rumpl/nanybar.git"
+  }
+}
